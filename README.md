@@ -157,11 +157,3 @@ If you have questions or need support:
 ## 🔖 Acknowledgements
 
 Inspired by common practices for data science and NLP projects to make sentiment analysis reproducible and extensible. ([GitHub][2])
-
-```
-
----
-
-If you want, I can also generate a **project wiki**, **demo GIF**, or **usage video script** to make your repository even more professional.
-::contentReference[oaicite:2]{index=2}
-```
