@@ -168,6 +168,3 @@ Inspired by common practices for data science and NLP projects to make sentiment
 If you want, I can also generate a **project wiki**, **demo GIF**, or **usage video script** to make your repository even more professional.
 ::contentReference[oaicite:2]{index=2}
 ```
-
-[1]: https://www.welcometothejungle.com/en/articles/btc-readme-documentation-best-practices?utm_source=chatgpt.com "Essential Sections for Better Documentation of a README"
-[2]: https://github.com/nafisalawalidris/Product-Review-Sentiment-Analysis?utm_source=chatgpt.com "nafisalawalidris/Product-Review-Sentiment-Analysis"
