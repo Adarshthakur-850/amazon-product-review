@@ -1,4 +1,3 @@
-
 # Amazon Product Review Sentiment Analysis
 
 A production-ready NLP system for classifying Amazon product reviews as **Positive**, **Negative**, or **Neutral** using both traditional Machine Learning (Logistic Regression) and Deep Learning (LSTM) approaches.
@@ -151,9 +150,3 @@ If you have questions or need support:
 
 * 📧 Email: *[thakuradarsh8368@gmail.com](mailto:thakuradarsh8368@gmail.com)*
 * 📌 GitHub: *github.com/Adarshthakur-850*
-
----
-
-## 🔖 Acknowledgements
-
-Inspired by common practices for data science and NLP projects to make sentiment analysis reproducible and extensible. ([GitHub][2])
