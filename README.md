@@ -150,3 +150,11 @@ If you have questions or need support:
 
 * 📧 Email: *[thakuradarsh8368@gmail.com](mailto:thakuradarsh8368@gmail.com)*
 * 📌 GitHub: *github.com/Adarshthakur-850*
+
+  
+---
+
+## 🔖 Acknowledgements
+
+Inspired by common practices for data science and NLP projects to make sentiment analysis reproducible and extensible. ([GitHub][2])
+
