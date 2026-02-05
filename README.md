@@ -1,4 +1,3 @@
-Here’s a professional, clear **README.md** file tailored for your **amazon-product-review** repository. It follows industry best practices and makes the project easy for others to understand, set up, and extend. ([welcometothejungle.com][1])
 
 ---
 
